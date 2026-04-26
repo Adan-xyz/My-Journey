@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-<img src="https://i.ibb.co.com/5WD5nNj9/20260426-114617.jpg" alt="img"/>
+<img src="https://i.ibb.co.com/n8qrMJNR/Pengmin.jpg" alt="Gugu gaga!!"/>
   </p>
   <br />
   
