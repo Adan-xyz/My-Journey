@@ -9,7 +9,7 @@ I’m using the Replit platform to get started
 To learn Assembly on Replit, the easiest and most standard way is to use NASM (Netwide Assembler) on a Linux operating system (which Replit is based on)
 
 The first step after creating a new project is to go to the Shell tab and type `nasm -v`
-If it’s not already installed, a notification will appear with the [Yn] option for installation
+if it’s not already installed, a notification will appear with the [Yn] option for installation
 
 The folder structure I use is simple:
 
