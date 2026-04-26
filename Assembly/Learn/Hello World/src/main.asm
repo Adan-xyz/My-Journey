@@ -1,3 +1,5 @@
+; hello world program
+
 section .data
     msg db "Hello World!", 10  ; 10 is the newline character
 
