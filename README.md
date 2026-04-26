@@ -25,3 +25,6 @@
 
  ### Started:
  - [04/23/2026] - Assembly / NASM x86_64
+
+### Notes
+> Actually, I do this just for fun, without any serious goals or career plans—it’s purely out of my own desire… my curiosity… that drives me to do this :3
