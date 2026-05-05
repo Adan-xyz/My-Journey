@@ -1,3 +1,6 @@
+;------------------------------------------
+; int slen(String message)
+; String length calculation function
 slen:
     push rdi
     mov  rdi, rax
@@ -14,6 +17,9 @@ finished:
     ret
 
 
+;------------------------------------------
+; void sprint(String message)
+; String printing function
 sprint:
     push rdx
     push rsi
@@ -35,6 +41,9 @@ sprint:
     ret
 
 
+;------------------------------------------
+; void exit()
+; Exit program and restore resources
 quit:
     mov rax, 60
     xor rdi, rdi
