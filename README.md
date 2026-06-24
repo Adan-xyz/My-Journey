@@ -12,7 +12,7 @@
 
 <p>
   
-  ![Static Badge](https://img.shields.io/badge/languages-1-blue?style=flat&logo=gnometerminal&logoColor=%23FFFFFF)
+  ![Static Badge](https://img.shields.io/badge/languages-2-blue?style=flat&logo=gnometerminal&logoColor=%23FFFFFF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Adan-xyz/My-Journey?logo=github&logoColor=FFFFFF&color=42cfff)
 
 </p>
